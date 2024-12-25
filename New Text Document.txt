@@ -1,0 +1,30 @@
+create a new git repository in the Github.
+
+git clone <URL> --> git clone https://github.com/username/repository.git
+
+git status --> check the status
+
+git add . --> add all changes to staging area
+
+git commit -m "commit-message-name"  --> commit the changes with a meaningful message
+
+git push origin main  --> push the changes to the remote repository
+
+--------------------------------------------------------------------------------------------
+create a new Empty repository
+
+git init  --> initialize a new git repository
+
+git add .  --> add all files in the current directory to the staging area
+
+git commit -m "commit-message"  ---> commit the changes with a meaningful message
+
+git remote add origin <repository-url>  --> link your local repository to the remote repository
+
+git remote -v  --> verify the remote repository
+
+git branch  --> list all branches in your repository  
+
+git branch -M main  --> rename the branch to main 
+
+git push origin main  --> push the changes to the remote repository
