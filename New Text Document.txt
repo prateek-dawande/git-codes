@@ -1,4 +1,4 @@
-create a new git repository in the Github.
+Clone a repository from the github.
 
 git clone <URL> --> git clone https://github.com/username/repository.git
 
